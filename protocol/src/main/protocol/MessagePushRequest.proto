@@ -1,0 +1,14 @@
+
+syntax = "proto3";
+
+option java_package = "com.donald.protocol";
+option java_outer_classname = "MessagePushRequestProto";
+
+message MessagePushRequestProto {
+
+    string senderId = 1;
+    string receiverId = 2;
+    string content = 3;
+    int64 messageId = 4;
+    int64 timestamp = 5;
+}

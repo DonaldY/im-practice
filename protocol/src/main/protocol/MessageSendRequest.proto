@@ -1,0 +1,12 @@
+
+syntax = "proto3";
+
+option java_package = "com.donald.protocol";
+option java_outer_classname = "MessageSendRequestProto";
+
+message MessageSendRequestProto {
+
+    string senderId = 1;
+    string receiverId = 2;
+    string content = 3;
+}

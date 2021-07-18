@@ -1,0 +1,11 @@
+
+syntax = "proto3";
+
+option java_package = "com.donald.protocol";
+option java_outer_classname = "MessageSendResponseProto";
+
+message MessageSendResponseProto {
+
+    string messageId = 1;
+    int64 timestamp = 2;
+}
