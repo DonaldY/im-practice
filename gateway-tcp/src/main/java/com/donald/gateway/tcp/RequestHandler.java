@@ -3,6 +3,7 @@ package com.donald.gateway.tcp;
 
 import com.donald.gateway.tcp.dispatcher.DispatcherInstance;
 import com.donald.gateway.tcp.dispatcher.DispatcherInstanceManager;
+import com.donald.protocol.AuthenticateRequestProto;
 
 /**
  * 请求处理组件

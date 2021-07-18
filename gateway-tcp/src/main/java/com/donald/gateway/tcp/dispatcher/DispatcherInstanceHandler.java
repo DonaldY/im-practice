@@ -1,6 +1,7 @@
 package com.donald.gateway.tcp.dispatcher;
 
 import com.donald.gateway.tcp.SessionManager;
+import com.donald.protocol.AuthenticateResponseProto;
 import com.donlad.common.Constants;
 import com.donlad.common.Message;
 import com.donlad.common.Response;

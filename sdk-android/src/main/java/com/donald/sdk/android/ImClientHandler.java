@@ -1,5 +1,6 @@
 package com.donald.sdk.android;
 
+import com.donald.protocol.AuthenticateResponseProto;
 import com.donlad.common.Constants;
 import com.donlad.common.Message;
 import com.donlad.common.Response;

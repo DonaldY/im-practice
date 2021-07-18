@@ -1,5 +1,6 @@
 package com.donald.sdk.android;
 
+import com.donald.protocol.AuthenticateRequestProto;
 import com.donlad.common.Constants;
 import com.donlad.common.Request;
 import io.netty.bootstrap.Bootstrap;

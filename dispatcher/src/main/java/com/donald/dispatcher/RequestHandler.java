@@ -1,5 +1,9 @@
 package com.donald.dispatcher;
 
+import com.donald.protocol.AuthenticateRequestProto;
+import com.donald.protocol.AuthenticateResponseProto;
+import com.donlad.common.Constants;
+
 /**
  * 请求处理组件
  *

@@ -1,5 +1,6 @@
 package com.donald.gateway.tcp.dispatcher;
 
+import com.donald.protocol.AuthenticateRequestProto;
 import com.donlad.common.Constants;
 import com.donlad.common.Request;
 import io.netty.channel.socket.SocketChannel;

@@ -1,5 +1,7 @@
 package com.donald.dispatcher;
 
+import com.donald.protocol.AuthenticateRequestProto;
+import com.donald.protocol.AuthenticateResponseProto;
 import com.donlad.common.Constants;
 import com.donlad.common.Message;
 import com.donlad.common.Request;

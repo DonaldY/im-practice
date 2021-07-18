@@ -1,5 +1,6 @@
 package com.donald.gateway.tcp;
 
+import com.donald.protocol.AuthenticateRequestProto;
 import com.donlad.common.Constants;
 import com.donlad.common.Message;
 import com.donlad.common.Request;
