@@ -52,14 +52,6 @@
             <groupId>io.netty</groupId>
             <artifactId>netty-all</artifactId>
         </dependency>
-        <dependency>
-            <groupId>com.donald</groupId>
-            <artifactId>common</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>com.donald</groupId>
-            <artifactId>protocol</artifactId>
-        </dependency>
     </dependencies>
 
 </project>
