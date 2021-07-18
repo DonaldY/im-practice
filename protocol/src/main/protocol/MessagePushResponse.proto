@@ -2,9 +2,9 @@
 syntax = "proto3";
 
 option java_package = "com.donald.protocol";
-option java_outer_classname = "MessagePushRequestProto";
+option java_outer_classname = "MessagePushResponseProto";
 
-message MessagePushRequestProto {
+message MessagePushResponseProto {
 
     int64 messageId = 1;
 }
